@@ -1,1 +1,3 @@
-# projeto-02-awari
+# Projeto 02
+
+Página Hello World em HTML.
